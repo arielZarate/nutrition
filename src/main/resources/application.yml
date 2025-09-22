@@ -1,0 +1,26 @@
+# server
+
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+
+
+spring:
+  application:
+    name: nutrition-fitness
+
+#  profiles:
+#    active: ${SPRING_ACTIVE_PROFILE:local}
+#
+#
+#  postgres: # INTERNAL DB
+#    datasource:
+#      jdbc-url: ${POSTGRES_DATASOURCE_URL}
+#      username: ${POSTGRES_DATASOURCE_USER}
+#      password: ${POSTGRES_DATASOURCE_PASSWORD}
+
+
+
+
