@@ -1,6 +1,8 @@
 # NUTRITION API- Arquitectura Hexagonal
 
-![Logo](https://via.placeholder.com/150)
+
+
+<img src="./images/logo.jpg" alt="Logo"  height="300" />
 
 ## Descripción
 **Nutrition API** es un proyecto personal que implementa una **API REST de nutrición** usando **arquitectura hexagonal**.  
